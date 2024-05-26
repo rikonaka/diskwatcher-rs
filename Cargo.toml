@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 walkdir = "^2"
-sqlite = "^0"
+rusqlite = { version = "^0", features = ["bundled", "chrono"] }
 rust-crypto = "^0"
 clap = { version = "^4", features = ["derive"] }
 chrono = "^0"
