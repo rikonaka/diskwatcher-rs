@@ -12,7 +12,7 @@ diskwatcher --watch ./
 
 ```bash
 diskwacher runing...
-2024-05-26 15:19:07 - File added: a.txt
-2024-05-26 15:19:13 - File changed: a.txt
-2024-05-26 15:19:30 - File deleted: a.txt
+2024-05-26 15:19:07 - File Added: a.txt
+2024-05-26 15:19:13 - File Changed: a.txt
+2024-05-26 15:19:30 - File Deleted: a.txt
 ```
