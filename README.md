@@ -19,9 +19,9 @@ diskwatcher --flush --watch ./
 
 ```bash
 diskwacher runing...
-2024-05-26 15:19:07 - File Added: a.txt
-2024-05-26 15:19:13 - File Changed: a.txt
-2024-05-26 15:19:30 - File Deleted: a.txt
+2024-05-26 15:19:07 - File Added: a.js
+2024-05-26 15:19:13 - File Changed: a.js
+2024-05-26 15:19:30 - File Deleted: a.js
 ```
 
 ## Print files and folders change history
