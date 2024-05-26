@@ -2,15 +2,14 @@
 
 Watch the disk files change.
 
-## Usage
 
-### Monitor a folder
+## Monitor a folder
 
 ```bash
 diskwatcher --watch ./
 ```
 
-### Or flush old results
+## Or flush old results
 
 ```bash
 diskwatcher --flush --watch ./
@@ -25,7 +24,7 @@ diskwacher runing...
 2024-05-26 15:19:30 - File Deleted: a.txt
 ```
 
-### Print files and folders change history
+## Print files and folders change history
 
 ```bash
 diskwatcher --printdb
