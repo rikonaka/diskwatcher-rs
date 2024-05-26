@@ -5,7 +5,7 @@ Watch the disk files change.
 ## Usage
 
 ```bash
-diskwatcher --watchpath ./
+diskwatcher --watch ./
 ```
 
 ### Output
