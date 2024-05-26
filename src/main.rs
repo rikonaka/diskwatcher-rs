@@ -133,6 +133,7 @@ fn print_db(db: &WatchDB) -> Result<(), rusqlite::Error> {
         println!("===");
         for dfs in db_files {
             println!("path: {}", dfs.path);
+            println!("class: {}", dfs.class.to_string());
             println!("md5: {}", dfs.md5);
             println!("sha1: {}", dfs.sha1);
             println!("opt: {}", dfs.last_opt);
